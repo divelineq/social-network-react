@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Для того чтобы быть авторизованным нужно зарегистрироваться на этом сайте [клик](https://social-network.samuraijs.com)
 
 ## Available Scripts
 
